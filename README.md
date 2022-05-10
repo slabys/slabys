@@ -9,7 +9,7 @@ jQuery, Laravel, Git.
 - 🌱 I’m currently learning **Vue, React**
 - 📫 How to reach me: 
   - info@slabys.cz
-  - [LinkedIn]: https://www.linkedin.com/in/slabys/
+  - [LinkedIn](https://www.linkedin.com/in/slabys/)
 - ⚡ Fun fact: In my free time, I devote myself to photography, piano, acoustic and electric guitar or creating web design or websites themself.
 
 <!--
