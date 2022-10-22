@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a student in the third year of University in Hradec
+I'm a student of University in Hradec
 Králové, where I'm studying the field of applied informatics.
 I know HTML, CSS, PHP, JavaScript, SQL. Also, I use all different
 frameworks and tools like React, Vue, Material UI, SASS, Bootstrap,
