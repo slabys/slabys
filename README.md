@@ -6,7 +6,7 @@ I know HTML, CSS, PHP, JavaScript, SQL. Also, I use all different
 frameworks and tools like React, Vue, Material UI, SASS, Bootstrap,
 jQuery, Laravel, Git.
 
-- 🌱 I’m currently learning **Vue, React**
+- 🌱 **React, Vue**
 - 📫 How to reach me: 
   - info@slabys.cz
   - [LinkedIn](https://www.linkedin.com/in/slabys/)
